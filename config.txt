@@ -1,0 +1,10 @@
+// Configuration file
+
+#str
+str_arg := Test
+
+#int
+int_arg := 10
+
+#bool
+bool_atr := true
